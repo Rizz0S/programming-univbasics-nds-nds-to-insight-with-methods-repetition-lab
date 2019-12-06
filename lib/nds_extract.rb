@@ -31,7 +31,10 @@ def list_of_directors(source)
 
   while index < source.length do
     result << source[index][:name]
+<<<<<<< HEAD
     index += 1
+=======
+>>>>>>> 24986e6119f78be6ddd5919c2489bbeb39cc4c76
   end
 
   result
